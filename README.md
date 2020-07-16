@@ -1,2 +1,2 @@
 # lregueiro.dev
-Personal site
+Hugo static personal site
