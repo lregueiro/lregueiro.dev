@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://lregueiro.github.io"
 languageCode = "en-us"
 title = "lregueiro.dev"
 theme= "rocinante"
@@ -11,7 +11,7 @@ theme= "rocinante"
 
 [params]
   favicon = "/icons/favicon.ico"
-  mainSections = ["posts"]
+  mainSections = []
   email = "mail@example.com"
   about = """
 Hi. I'm **Leandro**, my friends also know me as **Leo**.
