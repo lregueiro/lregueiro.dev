@@ -1,32 +1,31 @@
 baseURL = "http://lregueiro.github.io"
 languageCode = "en-us"
 title = "lregueiro.dev"
-theme= "rocinante"
-
-[markup]
-  [markup.highlight]
-    style = "monokailight"
-  [markup.goldmark.renderer]
-    unsafe= true
+theme= "clean"
 
 [params]
-  favicon = "/icons/favicon.ico"
-  mainSections = []
-  email = "mail@example.com"
-  about = """
-Hi. I'm **Leandro**, my friends also know me as **Leo**.
-"""
+  ProjectTitle = "lregueiro.dev"
+  ProjectSubtitle = "About programming and short sentences"
+  AuthorName = "Leandro Regueiro"
+  Favicon = "/icons/favicon.ico"
+  Email = "mail@example.com"
+  GithubUser = "lregueiro"
+  ExcludeCredits = false
+  ExcludeMediaOnSummary = false
 
-  [[params.links]]
-    [[params.links.link]]
-      name = "Resume"
-      href = "/Resume.pdf"
-    [[params.links.link]]
-      name = "Email"
-      href = "/contact"
-      smart_email_link = true
-  [[params.links.link]]
-        name = "Github"
-        href = "https://github.com/lregueiro"
-        new_tab = true
+#  [menu]
+#      [[menu.main]]
+#          name = "Home"
+#          url = "/"
+#          weight = 1
+#        [[menu.main]]
+#          name = "Posts"
+#          url = "/post/"
+#          weight = 2
+#        [[menu.main]]
+#          name = "Tags"
+#          url = "/tags/"
+#          weight = 3
+
+
 

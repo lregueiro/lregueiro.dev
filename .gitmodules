@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/lregueiro/lregueiro.github.io.git
 	branch = master
+[submodule "themes/clean"]
+	path = themes/clean
+	url = https://github.com/lregueiro/clean.git
